@@ -59,16 +59,6 @@ Entre na pasta criada
 
 Abra o arquivo index.html no navegador
 
-## Estrutura do Projeto
-
-14_IMC
-│
-├── index.html
-├── css/
-│ └── styles.css
-└── js/
-└── script.js
-
 ## Tecnologias Utilizadas
 
 HTML5
